@@ -1,18 +1,18 @@
 {
-  "generated": "2026-09-03T04:35:35+00:00",
-  "note": "",
+  "generated": "2026-09-03T04:41:33+00:00",
+  "note": "2026-09-02 패치 반영 (아티팩트 8 · 방어구 18 · 배낭 1 수치 변경, 신규 아이템 15)",
   "files": {
     "ui_data": {
       "url": "ui_data.json",
-      "sha256": "0a0715d2e0d0456086b7edcb780bced569619458275179d91da99fc837f31c69",
-      "bytes": 785916,
-      "generated": "2026-09-01T15:19:34+00:00"
+      "sha256": "8de7cf37ec5e542ad1d0c050e40a67878622a96902e23d8d87c235b4d81fbe58",
+      "bytes": 786136,
+      "generated": "2026-09-03T04:40:40+00:00"
     },
     "catalog": {
       "url": "catalog.json",
-      "sha256": "b0f7ad925b77b3af55ee811960596c60b25a23817f80b460884c3ea1d325c6cb",
-      "bytes": 1933544,
-      "generated": "2026-09-02T02:29:45+00:00"
+      "sha256": "4ebc7dd6cc7933a40a42d69774f0ccf490cc4aed3e23c2498fb2a833f12e9fb8",
+      "bytes": 1950412,
+      "generated": "2026-09-03T04:41:05+00:00"
     }
   }
 }
