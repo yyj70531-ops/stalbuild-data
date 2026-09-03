@@ -1,0 +1,18 @@
+{
+  "generated": "2026-09-03T04:35:35+00:00",
+  "note": "",
+  "files": {
+    "ui_data": {
+      "url": "ui_data.json",
+      "sha256": "0a0715d2e0d0456086b7edcb780bced569619458275179d91da99fc837f31c69",
+      "bytes": 785916,
+      "generated": "2026-09-01T15:19:34+00:00"
+    },
+    "catalog": {
+      "url": "catalog.json",
+      "sha256": "b0f7ad925b77b3af55ee811960596c60b25a23817f80b460884c3ea1d325c6cb",
+      "bytes": 1933544,
+      "generated": "2026-09-02T02:29:45+00:00"
+    }
+  }
+}
